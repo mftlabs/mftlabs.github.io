@@ -4,4 +4,4 @@ MFTLabs Home Page
 
 # [AMPS](/amps)
 
-# [AMPS Python](/amps-py])
+# [AMPS Python](/amps-py)
