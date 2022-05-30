@@ -2,6 +2,6 @@
 
 MFTLabs Home Page
 
-# AMPS
+# [AMPS](/amps)
 
-# AMPS Python
+# [AMPS Python](/amps-py])
